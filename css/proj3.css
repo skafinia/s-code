@@ -1,0 +1,20 @@
+p{
+	font-size:60px;
+	color:brown;
+	font-family: alex;
+	
+}
+@font-face {
+	font-family: alex;
+	src: url('../fonts/AlexBrush-Regular.ttf');
+}
+a{
+	
+	font-size: 30px;
+	background-color: blue;
+	font-weight: bold;
+	display: inline-block;
+}
+form{
+	color:brown
+}
